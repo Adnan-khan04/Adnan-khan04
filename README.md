@@ -1,4 +1,15 @@
+<h1 align="center">Hi 👋, I'm Adnan Khan</h1>
+<h3 align="center">A passionate Full Stack & Software Developer</h3>
 
+<p align="left"> <a href="https://twitter.com/adnan_04_khan" target="blank"><img src="https://img.shields.io/twitter/follow/adnan_04_khan?logo=twitter&style=for-the-badge" alt="adnan_04_khan" /></a> </p>
+
+- 🌱 I’m currently learning **Java , Python & Algorithms**
+
+- 👯 I’m looking to collaborate on **projects**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Adnan-khan04](https://github.com/Adnan-khan04)
+
+- 📫 How to reach me **adnank11848@gmail.com**
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/addy.vibes_04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adnankhan-tech) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/TopEnd7122/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/users/32181184/adnan-khan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/adnan_04_khan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adnank11848@gmail.com) 
 
