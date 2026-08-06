@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adnan Khan</h1>
-<h3 align="center">A passionate Full Stack & Software Developer</h3>
+<h3 align="center">A passionate Data Science Engineer & Software Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/adnan_04_khan" target="blank"><img src="https://img.shields.io/twitter/follow/adnan_04_khan?logo=twitter&style=for-the-badge" alt="adnan_04_khan" /></a> </p>
 
 - 🌱 I’m currently learning **Java , Python & Algorithms**
-
-- 👯 I’m looking to collaborate on **projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Adnan-khan04](https://github.com/Adnan-khan04)
 
